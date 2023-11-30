@@ -5,7 +5,7 @@ st.write('Hello world 2.0')
 st.write('Hola Monono..!!')
 
 st.button('Hit me')
-st.data_editor('Edit data', data)
+#st.data_editor('Edit data', data)
 st.checkbox('Check me out')
 st.radio('Pick one:', ['nose','ear'])
 st.selectbox('Select', [1,2,3])
