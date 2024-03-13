@@ -1,7 +1,7 @@
 import streamlit as st
 st.header('Mi titulo super PRO')
 
-if st.button('Hello there')
+if st.button('Hello there'):
     st.write('why hello there')
 else:
     st.write('googbye')
